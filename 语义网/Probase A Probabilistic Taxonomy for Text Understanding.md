@@ -4,7 +4,6 @@
     <p align="center">A universal, probabilistic taxonomy which uses probabilities to model inconsistent, ambiguous and uncertain information it contains.<br><br>一种使用概率来模拟其包含的不一致,模糊和不确定信息的概念分类法</p>
 <br>
 </p>
-
 ## Probase的介绍
 
 1. Probase 三个独特之处：
@@ -18,8 +17,12 @@
 
 ### 新的框架
 
-为了针对单句法模式(Syntactic Patterns)的不能准确提取名词短语的不足，文章提出一种新的框架
+为了针对单句法模式(Syntactic Patterns)的不能准确提取名词短语的不足，文章提出一种新的框架，过程如下所示：
 
-1. 句法提取：
-   * 句法提取：
+![](C:\Users\HOUND\Desktop\捕获.PNG)
 
+* 句法提取
+* 超概念检测
+* 子概念检测
+
+## 
